@@ -6,7 +6,7 @@
 #
 ![Screenshot from 2022-08-08 22-56-45](https://user-images.githubusercontent.com/83831759/183493410-b4e02ad3-383a-4083-9625-69f7734454c9.png)
 #
-Функионал:
+Функционал:
 - Добавление Человека/Книги
 - Чтение
 - Удаление
@@ -19,6 +19,7 @@
 - Spring Framework
 - Maven
 - Java 17
+- PostgreSQL
 - Spring Data JPA (Hibernate)
 - Thymeleaf
 #
