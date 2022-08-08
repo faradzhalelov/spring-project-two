@@ -1,5 +1,5 @@
 # spring-project-two
-2-й проект курса "Spring - Полный курс. Boot, Hibernate, Security, REST." Алишева Наиля/
+2-й проект курса "Spring - Полный курс. Boot, Hibernate, Security, REST." Алишева Наиля//
 [1-й проект](https://github.com/faradzhalelov/spring-project-one)
 #
 ![Screenshot from 2022-08-08 22-43-19](https://user-images.githubusercontent.com/83831759/183493379-17682123-34be-467b-a638-5740134cac6d.png)
