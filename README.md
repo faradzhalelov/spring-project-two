@@ -6,4 +6,20 @@
 #
 ![Screenshot from 2022-08-08 22-56-45](https://user-images.githubusercontent.com/83831759/183493410-b4e02ad3-383a-4083-9625-69f7734454c9.png)
 #
+Функионал:
+- Добавление Человека/Книги
+- Чтение
+- Удаление
+- Редактирование
+- Пагинация
+- Сортировка
+
+Технологии:
+- Spring Boot
+- Spring Framework
+- Maven
+- Java 17
+- Spring Data JPA (Hibernate)
+- Thymeleaf
+#
 ![appArch](https://user-images.githubusercontent.com/83831759/183496095-2dcbf715-17cd-45a7-970b-78837abafcc3.jpg)
